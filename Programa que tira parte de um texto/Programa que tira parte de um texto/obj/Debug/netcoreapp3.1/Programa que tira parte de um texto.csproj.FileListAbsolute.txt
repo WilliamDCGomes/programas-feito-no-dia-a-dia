@@ -1,0 +1,13 @@
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\bin\Debug\netcoreapp3.1\Programa que tira parte de um texto.exe
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\bin\Debug\netcoreapp3.1\Programa que tira parte de um texto.deps.json
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\bin\Debug\netcoreapp3.1\Programa que tira parte de um texto.runtimeconfig.json
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\bin\Debug\netcoreapp3.1\Programa que tira parte de um texto.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\bin\Debug\netcoreapp3.1\Programa que tira parte de um texto.dll
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\bin\Debug\netcoreapp3.1\Programa que tira parte de um texto.pdb
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\obj\Debug\netcoreapp3.1\Programa que tira parte de um texto.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\obj\Debug\netcoreapp3.1\Programa que tira parte de um texto.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\obj\Debug\netcoreapp3.1\Programa que tira parte de um texto.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\obj\Debug\netcoreapp3.1\Programa que tira parte de um texto.AssemblyInfo.cs
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\obj\Debug\netcoreapp3.1\Programa que tira parte de um texto.dll
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\obj\Debug\netcoreapp3.1\Programa que tira parte de um texto.pdb
+C:\Users\willi\Desktop\Programa que tira parte de um texto\Programa que tira parte de um texto\obj\Debug\netcoreapp3.1\Programa que tira parte de um texto.genruntimeconfig.cache

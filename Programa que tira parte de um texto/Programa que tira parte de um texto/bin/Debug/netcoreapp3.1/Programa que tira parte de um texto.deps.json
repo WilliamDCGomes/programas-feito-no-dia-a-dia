@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programa que tira parte de um texto/1.0.0": {
+        "runtime": {
+          "Programa que tira parte de um texto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa que tira parte de um texto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
