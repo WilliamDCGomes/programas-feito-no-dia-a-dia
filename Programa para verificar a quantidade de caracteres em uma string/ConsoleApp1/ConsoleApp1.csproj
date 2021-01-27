@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Programing\GitHub Programas feito no dia a dia\Verificar a Quantidade de cada caracter em uma string.cs" Link="Verificar a Quantidade de cada caracter em uma string.cs" />
+  </ItemGroup>
+
+</Project>
