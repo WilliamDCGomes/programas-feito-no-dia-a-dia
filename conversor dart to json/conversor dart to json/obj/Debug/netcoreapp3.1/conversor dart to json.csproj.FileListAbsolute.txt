@@ -1,0 +1,13 @@
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\bin\Debug\netcoreapp3.1\conversor dart to json.exe
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\bin\Debug\netcoreapp3.1\conversor dart to json.deps.json
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\bin\Debug\netcoreapp3.1\conversor dart to json.runtimeconfig.json
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\bin\Debug\netcoreapp3.1\conversor dart to json.runtimeconfig.dev.json
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\bin\Debug\netcoreapp3.1\conversor dart to json.dll
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\bin\Debug\netcoreapp3.1\conversor dart to json.pdb
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\obj\Debug\netcoreapp3.1\conversor dart to json.csproj.AssemblyReference.cache
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\obj\Debug\netcoreapp3.1\conversor dart to json.AssemblyInfoInputs.cache
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\obj\Debug\netcoreapp3.1\conversor dart to json.AssemblyInfo.cs
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\obj\Debug\netcoreapp3.1\conversor dart to json.csproj.CoreCompileInputs.cache
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\obj\Debug\netcoreapp3.1\conversor dart to json.dll
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\obj\Debug\netcoreapp3.1\conversor dart to json.pdb
+D:\Programing\GitHub Programas feito no dia a dia\conversor dart to json\conversor dart to json\obj\Debug\netcoreapp3.1\conversor dart to json.genruntimeconfig.cache
