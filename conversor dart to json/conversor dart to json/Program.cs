@@ -15,6 +15,7 @@ namespace conversor_dart_to_json{
                         break;
                     variables.Add(input);
                 }
+                Console.WriteLine("//#region Conversores");
                 Console.WriteLine($"{className}.fromJson(Map<String, dynamic> json) {{");
                 variables.ForEach(va => Console.WriteLine($"  {va} = json[\"{va.Substring(0, 1).ToLower() + va.Remove(0, 1)}\"];"));
                 Console.WriteLine("}\n");
@@ -23,6 +24,7 @@ namespace conversor_dart_to_json{
                 variables.ForEach(va => Console.WriteLine($"  data[\"{va.Substring(0, 1).ToLower() + va.Remove(0, 1)}\"] = this.{va};"));
                 Console.WriteLine("  return data;");
                 Console.WriteLine("}");
+                Console.WriteLine("//#endregion");
                 Console.WriteLine("\nToque qualquer tecla para converter outra classe");
                 Console.ReadLine();
                 Console.Clear();
